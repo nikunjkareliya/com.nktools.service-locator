@@ -1,0 +1,15 @@
+{
+  "name": "com.nk.servicelocator",
+  "version": "1.0.0",
+  "displayName": "Service Locator",
+  "description": "This is an example package",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",   
+  "author": {
+    "name": "Nikunj Kareliya",
+    "email": "nikunj.kareliya@gmail.com",
+    "url": ""
+  }
+}
